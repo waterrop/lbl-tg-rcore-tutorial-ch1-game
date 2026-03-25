@@ -48,3 +48,6 @@ ramfb+fw_cfg（QEMU 提供接口）：由来宾自己选定一块物理内存地
   - 组件提供一个清屏函数，用于清除显示设备上的所有像素。
 
   按照以上功能描述和接口，生成一份实现一个rust组件lbl-tg-rcore-tutorial-vga的设计文档，保存在/home/hdu/study/rust/2026s-ai4ose-lab/lbl-tg-rcore-tutorial-ch1-game/docs/vga-design.md。
+
+# question9
+检查该项目是否可以发布在crate.io上。
